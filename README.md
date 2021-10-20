@@ -19,4 +19,4 @@ O intuito desse projeto trata-se de contruir uma maquete que tem como foco princ
 
 ## Referências
 
-TEZA, Vanderlei Rabelo. Alguns aspectos sobre a automação residencial - Domótica . 2002. 106 f. Dissertação (Mestrado) - Curso de Ciência da Computação, Universidade Federal de Santa Catarina, Florianópolis, 2002. Disponível em: https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/83015/212312.pdf?sequence= 1 & isAllowed = y . Acesso em: 19 de outubro de 2021.
+TEZA, Vanderlei Rabelo. Alguns aspectos sobre a automação residencial - Domótica . 2002. 106 f. Dissertação (Mestrado) - Curso de Ciência da Computação, Universidade Federal de Santa Catarina, Florianópolis, 2002. Disponível em: https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/83015/212312.pdf?sequence=1&isAllowed=y . Acesso em:  17  out. 2021

@@ -10,9 +10,12 @@ Acesso rápido:
 
 ## Introdução
 
+Para entender melhor o intuito do projeto, define-se o tema como **domótica** que surge da fusão da palavra “Domus” que significa casa com a palavra “Robótica” que está relacionado ao ato de automatizar (BRAGAZZA, 2013). No entanto, o título se integra a internet das coisas, ou seja, se trata de algo mais moderno, tendo em vista que se refere a algo superior a automação residencial “padrão.
+
+A domótica encontra-se em constante melhoria e modif.Evidencia-se que esse âmbito está ganhando força e lugar na sociedade gradativamente, pois as pessoas estão cada vez mais exigentes sobre o mercado imobiliário. Dessa maneira, surgem residências e comércios que conseguem proporcionar o controle de informações precisas em tempo real por meio de smartphones ou tablets. Permitindo assim, acionar conjuntos de técnicas direcionadas a melhoria da automação, integrando tecnologia em sistemas de segurança, gerenciamento de energia, bem-estar, comunicações, entre outras. Ratifica-se também os benefícios que essa junção multidisciplinar de muitas especialidades, como eletricidade, mecânica, psicologia, telecomunicações, informática e medicina resulta na qualidade de vida para seus moradores e usuários, gerando conforto, segurança, lazer, comunicação e racionalização de energia que são adquiridos por meio da utilização eficaz dos recursos com sustentabilidade.comunicação e racionalização de energia que
 
 
-## Referências
+## Referências 
 
 ALMEIDA, F. M. de. **Internet das coisas aplicadas à domótica**. 77f. Monografia de Conclusão de Curso (Engenharia de Computação) – Universidade Federal de Sergipe, São Cristóvão, 2013.Disponível em: <https://ri.ufs.br/bitstream/riufs/6855/2/Fernando%20Mendon%C3%A7a%20de%20Almeida.pdf>. Acesso em: 17 out. 2021.
 

@@ -24,7 +24,7 @@ Sendo assim,  objetivando a melhor utilização possível desses recursos será 
 *  controle da umidade e temperatura, tanto interna quanto externa;
 *  sensor de presença para acender a luz do corredor de entrada;
 *  sensor de gás para detectar vazamentos localizado na cozinha, supervisionado por meio de aplicativos;
-*  alarme para segurança.
-
+*  alarme para segurança;
+*  abrir e fechar janelas remotamente.
 
 ## Referências

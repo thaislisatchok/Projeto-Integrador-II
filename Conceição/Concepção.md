@@ -1,8 +1,9 @@
 # Concepção do Projeto
 
-Definir como necessidade do client,considerando tecnologia, estrategia empresarial e criterios e desenvolvimento de planos conceituais,tecnicos e  de negocios. 
 
 O intuito do projeto integrador se trata de desenvolver uma maquete confeccionada por cada aluno de um sistema de automação residencial construído e integrado a internet das coisas. Essa casa tem o objetivo de garantir maior conforto, comodidade, segurança e custo benefício. 
+
+Definir como necessidade do client,considerando tecnologia, estrategia empresarial e criterios e desenvolvimento de planos conceituais,tecnicos e  de negocios. 
 
 Essa construção será feita por meio de componentes eletrônicos para demonstrar o funcionamento, sendo eles:  
 

@@ -6,6 +6,8 @@ Acesso rápido:
   - [Implementação](./implementacao.md)
   - [Operação](./operacao.md)
 
+Criar a descrição detalhada da informação do projeto; os planos, desenhos e algoritmos que descrevem o sistema a ser implementado.
+
 ## Referências
 
 Colocar aqui as referências. _Sempre em formato ABNT_.

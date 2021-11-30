@@ -1,10 +1,10 @@
 # Implementação do Projeto
 
 Acesso rápido:
-  - [Introdução](./README.md)
-  - [Concepção](./conceive.md)
+  - [Introdução](./introdução.md)
+  - [Concepção](./concepção.md)
   - [Design/Projeto](./design.md)
-  - [Operação](./operate.md)
+  - [Operação](./operação.md)
 
 
 ## Referências

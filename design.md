@@ -1,10 +1,10 @@
 # Design/Projeto
 
-Acesso rápido:
-  - [Introdução](./README.md)
-  - [Concepção](./concepcao.md)
-  - [Implementação](./implementacao.md)
-  - [Operação](./operacao.md)
+Acesso rápido: 
+  - [Introdução](./introdução.md)
+  - [Concepção](./concepção.md)
+  - [Implementação](./implementação.md)
+  - [Operação](./operação.md)
 
 Criar a descrição detalhada da informação do projeto; os planos, desenhos e algoritmos que descrevem o sistema a ser implementado.
 

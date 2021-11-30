@@ -1,10 +1,11 @@
 # Concepção do Projeto
 
 Acesso rápido:
-  - [Introdução](./README.md)
+  
+ - [Introdução](./introdução.md)
   - [Design/Projeto](./design.md)
-  - [Implementação](./implementacao.md)
-  - [Operação](./operacao.md)
+  - [Implementação](./implementação.md)
+  - [Operação](./operação.md)
 
   O intuito do projeto  de trata de desenvolve um sistema de automação residencial contruído e integrado à internet das coisas garantindo um maior conforto,comodidade,seguran e custo beneficio. Alem de definir os "princípios" de acordo com a necessidade do cliente, considerando modernidade, estrategia empresarial e os critérios de desenvolvimento de planos conceituais ,técnicos e de negocios.
   

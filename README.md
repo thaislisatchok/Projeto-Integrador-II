@@ -22,7 +22,6 @@ Ratifica-se também que os benefícios dessa junção multidisciplinar de muitas
 Em síntese, conclui-se que o custo gasto com automação na moradia, além de ser visto como uma ascensão, também é identificado como investimento, já que resulta na redução do uso 
 da energia elétrica e consumo de recurso hidríco, otimização de tempo, melhora na qualidade de vida, além de ser adicionais de conforto e praticidade.
 
-
 ## Referências 
 
 ALMEIDA, F. M. de. **Internet das coisas aplicadas à domótica**. 77f. Monografia de Conclusão de Curso (Engenharia de Computação) – Universidade Federal de Sergipe, São Cristóvão, 2013.Disponível em: <https://ri.ufs.br/bitstream/riufs/6855/2/Fernando%20Mendon%C3%A7a%20de%20Almeida.pdf>. Acesso em: 17 out. 2021.

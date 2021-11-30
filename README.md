@@ -4,11 +4,12 @@ Projeto de domótica integrada com a Internet das Coisas
 
 Acesso rápido:
 
-  - [Concepção](./concepção.md)
-  - [Design/Projeto](./desing.md)
-  - [Implementação](./compra.md)
+ - [Concepção](./concepção.md)
+  - [Design/Projeto](./design.md)
+  - [Implementação](./implementação.md)
   - [Operação](./operação.md)
-## Introdução
+
+## Introdução 
 
 Para entender melhor o intuito do projeto, define-se o tema como **domótica** que surge da fusão da palavra “Domus” que significa casa com a palavra “Robótica” que está relacionado ao ato de automatizar (BRAGAZZA, 2013). No entanto, o título se integra a internet das coisas, ou seja, se trata de algo mais moderno, tendo em vista que se refere a algo superior a automação residencial “padrão.
 

@@ -6,9 +6,9 @@ Acesso rápido:
   - [Implementação](./implementação.md)
   - [Operação](./operação.md)
 
-Criar a descrição detalhada da informação do projeto; os planos, desenhos e algoritmos que descrevem o sistema a ser implementado.
+O objetivo  desse projeto é a criação de uma maquete residencial, que tem o intuito de automatizar a casa integrando internet das coisas em algumas das funcionalidades. Sendo assim, na parte do design, há a intenção de visualizar tudo que foi planejado de modo mais "concreto". Desde quais são os componentes utilizados e a quantidade de cada um até a maquete eletrônica que ajuda na compreensão do projeto.
 
-## Componentes:
+## Tabela de componentes
 
 Quantidade  | Componentes
 :---------:   | ------
@@ -25,7 +25,7 @@ Quantidade  | Componentes
 1           | Buzzer passivo
 1           | Display LCD 16×2 I2C Backlight Azul
 
-
+## Diagrama Eletrônico
 
 
 

@@ -21,6 +21,8 @@ Ratifica-se também que os benefícios dessa junção multidisciplinar de muitas
 
 Em síntese, conclui-se que o custo gasto com automação na moradia, além de ser visto como uma ascensão, também é identificado como investimento, já que resulta na redução do uso 
 da energia elétrica e consumo de recurso hidríco, otimização de tempo, melhora na qualidade de vida, além de ser adicionais de conforto e praticidade.
+       
+![DOMÓTICA](https://vidacelular.com.br/wp-content/uploads/2021/02/home-4100193_1280.jpg)
 
 ## Referências 
 

@@ -28,6 +28,8 @@ Quantidade  | Componentes
 ## Diagrama Eletrônico
 
 
+![Diagrama](blob:https://web.whatsapp.com/b836aba8-a031-4e20-9874-49386910c597)
+
 
 ## Referências
 

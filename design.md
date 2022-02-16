@@ -32,7 +32,7 @@ Geral:
 
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/frittizin.png)
 
-Dvidido em duas partes, mas  com detalhamento:
+Dvidido em duas partes, para possibilitar uma melhor visualização: 
 
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing1.png)
 

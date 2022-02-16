@@ -27,8 +27,15 @@ Quantidade  | Componentes
 
 ## Diagrama Eletrônico
 
+Geral:
 
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/frittizin.png)
+
+Dvidido em duas partes, mas  com detalhamento:
+
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing1.png)
+
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing2.png)
 
 
 ## Referências

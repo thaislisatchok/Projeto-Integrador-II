@@ -38,6 +38,8 @@ Dvidido em duas partes, para possibilitar uma melhor visualização:
 
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing2.png)
 
+## Planta baixa 
+
 
 ## Referências
 

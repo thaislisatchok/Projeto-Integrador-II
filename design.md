@@ -41,6 +41,9 @@ Dvidido em duas partes, para possibilitar uma melhor visualização:
 ## Planta baixa 
 
 
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/planta%20da%20casa.png)
+
+
 ## Referências
 
 Colocar aqui as referências. _Sempre em formato ABNT_.

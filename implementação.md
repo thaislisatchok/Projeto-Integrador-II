@@ -1,5 +1,10 @@
 # Implementação do Projeto
 
+## Ideia de maquete
+
+
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/maquete%20residencial.png)
+
 Acesso rápido:
   - [Introdução](./introdução.md)
   - [Concepção](./concepção.md)

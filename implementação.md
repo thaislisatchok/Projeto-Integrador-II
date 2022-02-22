@@ -8,12 +8,12 @@
 ## Montagem 
  Material utilizado:
  
-  - Base de Isopor
- - Impressão planta de casa em papel A3 em escala 1:50
- - Papel EVA verde e cinza
- - Papel cartolina verde
-- Papel Paraná número 90
-- Cola de isopor
+- Base de Isopor ;
+ - Impressão planta de casa em papel A3 em escala 1:50 ;
+ - Papel EVA verde e cinza ; 
+ - Papel Cartolina verde ; 
+- Papel Paraná número 90 ; 
+- Cola de isopor.
 
  
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/f-maquete1.jpg)

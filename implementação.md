@@ -1,7 +1,7 @@
 # Implementação do Projeto
 
 Acesso rápido:
-  - [Introdução](./intodução.md)
+  - [Introdução](./introdução.md)
   - [Concepção](./concepção.md)
   - [Design/Projeto](./design.md)
   - [Operação](./operação.md)

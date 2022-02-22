@@ -5,12 +5,22 @@
 
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/maquete%20residencial.png)
 
-Acesso rápido:
-  - [Introdução](./introdução.md)
-  - [Concepção](./concepção.md)
-  - [Design/Projeto](./design.md)
-  - [Operação](./operação.md)
+## Montagem 
+ Material utilizado:
+ 
+  - Base de Isopor
+ - Impressão planta de casa em papel A3 em escala 1:50
+ - Papel EVA verde e cinza
+ - Papel cartolina verde
+- Papel Paraná número 90
+- Cola de isopor
 
+ 
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/f-maquete1.jpg)
+
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/f-maquete2.jpg)
+
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/f-maquete3.jpg)
 
 ## Referências
 

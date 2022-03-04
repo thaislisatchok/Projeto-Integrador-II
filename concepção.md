@@ -16,7 +16,8 @@ Acesso rápido:
 *  sensor de presença para a luz do corredor de entrada e para o portão principal: no momento em que o farol do carro for ativado no portão, ele abre automaticamente, sem a necessidade de apertar o botão, depois que o carro passar, o portão fechará(analisando o movimento por completo para manter aberto até que o carro esteja totalmente na garagem ) e nesse instante a luz da garagem irá se acender por conta do reconhecimento de presença;
 *  sensor de gás para detectar vazamentos localizado na cozinha, havendo um aviso por meio de um alerta sonoro: quando o sensor de gas detectar gas vai liberar um sinal sonoro e a janela do ambiente será aberta;
 *  alarme para segurança: no momento em que a casa estiver vazia e de noite será acionado o alarme, no qual, caso um movimento estranho desconhecido for detectado será considerado como uma invasão acionando um aviso sonoro;
-*  abrir e fechar janelas remotamente: de acordo com o fluxo do vento e chuvas.
+
+
 
 ### Componentes eletrônicos:
 

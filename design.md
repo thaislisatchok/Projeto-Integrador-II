@@ -32,13 +32,13 @@ X           | Módulo Matriz de LED 8×8 com MAX7219
 
 Geral:
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/frittizin.png)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing.md/fritzing.png)
 
 Dvidido em duas partes, para possibilitar uma melhor visualização: 
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing1.png)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing.md/fritzing-.png)
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing2.png)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing.md/fritzing--.png)
 
 ## Planta baixa 
 

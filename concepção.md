@@ -34,6 +34,7 @@ Acesso rápido:
 |   Módulo Matriz de LED 8×8 com MAX7219    | ![matrizled](https://www.usinainfo.com.br/1017274-thickbox_default/modulo-matriz-de-led-8x8-vermelho-max7219-jumpers.jpg) |
 |   Buzzer passivo                                                     | ![buzzer](https://www.filipeflop.com/wp-content/uploads/2017/07/2-142.jpg) |
 |   Display LCD 16×2 I2C Backlight Azul             | ![display](https://cdn.awsli.com.br/600x700/468/468162/produto/19414150/display-lcd-16x2-i2c-backlight-azul-7ff37942.jpg) |
+|   LED Verde + Resistor             | ![display]( https://http2.mlstatic.com/D_NQ_NP_880713-MLB42892435467_072020-O.webp) |
 
 ## Referências
 

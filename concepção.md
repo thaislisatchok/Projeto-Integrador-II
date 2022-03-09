@@ -9,7 +9,7 @@ Acesso rápido:
 
   O intuito do projeto  de trata de desenvolve um sistema de automação residencial contruído e integrado à internet das coisas garantindo um maior conforto,comodidade,seguran e custo beneficio. Alem de definir os "princípios" de acordo com a necessidade do cliente, considerando modernidade, estrategia empresarial e os critérios de desenvolvimento de planos conceituais ,técnicos e de negocios.
   
-  Objetivação:
+  ## Objetivação:
   
   •	Sistema de irrigação:
 Será desenvolvido um sistema para o controle da umidade e temperatura externa, ou seja, na parte do jardim será possibilitado por meio do sensor umidade e do display LCD, liberar uma mensagem de aviso caso seja necessário regar as plantações nos períodos mais quentes e secos (<300).

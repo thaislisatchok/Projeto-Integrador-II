@@ -26,7 +26,7 @@ Será desenvolvido um sistema para controle de vazamentos de gás no ambiente da
 •	Sistema de alarme contra invasão:
 Será desenvolvido um sistema de prevenção a invasão e roubo, caso algum movimento estranho desconhecido for detectado (exemplo: alguém pulando o muro), um alarme sonoro será disparado, por meio da utilização do buzzer juntamente do sensor presença.  
   
-### Componentes eletrônicos disponíveis para o trabalho:
+### Componentes eletrônicos disponíveis para o projeto:
 
 | Componentes                          |Representação       |
 | -------------------------------------|------------------- |

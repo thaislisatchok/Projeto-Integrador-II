@@ -9,7 +9,7 @@ Acesso rápido:
 ## Ideia de maquete
 
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/maquete%20residencial.png)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete%20residencial.png)
 
 ## Montagem 
  Material utilizado:
@@ -22,11 +22,11 @@ Acesso rápido:
 - Cola de isopor.
 
  
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/f-maquete1.jpg)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete1.jpg)
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/f-maquete2.jpg)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete2.jpg)
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/f-maquete3.jpg)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete3.jpg)
 
 ## Referências
 

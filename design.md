@@ -9,7 +9,7 @@ Acesso rápido:
 
 O objetivo desse é a criação de uma     maquete    residencial,    que tem o intuito de automatizar a casa integrando internet das coisas. Sendos assim, na parte do design,  há a intenção de visualizar tudo que foi planejado de modo "concreto". Desde os componentes  a serem utilizados, a quantidade de cada um na monetagem da maquete eletrônica, até a planta da casa, auxiliando na compreensão do que pretende ser feito.
 
-## Tabela de componentes
+## Tabela de componentes utilizados:
 
 Quantidade  | Componentes
 :---------:   | ------

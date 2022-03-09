@@ -10,9 +10,22 @@ Acesso rápido:
   O intuito do projeto  de trata de desenvolve um sistema de automação residencial contruído e integrado à internet das coisas garantindo um maior conforto,comodidade,seguran e custo beneficio. Alem de definir os "princípios" de acordo com a necessidade do cliente, considerando modernidade, estrategia empresarial e os critérios de desenvolvimento de planos conceituais ,técnicos e de negocios.
   
   Objetivação:
- 
-![Diagrama]( https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/fritzing.md/concep%C3%A7%C3%A3o.png)
+  
+  •	Sistema de irrigação:
+Será desenvolvido um sistema para o controle da umidade e temperatura externa, ou seja, na parte do jardim será possibilitado por meio do sensor umidade e do display LCD, liberar uma mensagem de aviso caso seja necessário regar as plantações nos períodos mais quentes e secos (<300).
 
+•	Sistema entrada na garagem:
+Será desenvolvido um sistema para a entrada na garagem, utilizando o servo juntamente do sensor presença e do sensor ultrassônico, o qual permite que quando a pessoa chegue na casa o portão abra automaticamente. 
+
+•	Sistema de iluminação na garagem:
+Além do fato acima, será projetada uma luz presença, caso por exemplo chegue de noite, a partir do momento que o carro entrou na garagem, haverá iluminação automática por meio da utilização do LED juntamente de um sensor presença (sem necessidade de sair do carro para liga-la).
+
+•	Sistema para controle de vazamento de gás:
+Será desenvolvido um sistema para controle de vazamentos de gás no ambiente da cozinha, sendo utilizado o sensor de gás juntamente do buzzer, na intenção de disparar um alarme sonoro na medida que o valor do gás for ≥ 400.
+
+•	Sistema de alarme contra invasão:
+Será desenvolvido um sistema de prevenção a invasão e roubo, caso algum movimento estranho desconhecido for detectado (exemplo: alguém pulando o muro), um alarme sonoro será disparado, por meio da utilização do buzzer juntamente do sensor presença.  
+  
 ### Componentes eletrônicos:
 
 | Componentes                          |Representação       |

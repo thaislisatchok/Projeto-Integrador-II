@@ -44,4 +44,4 @@ Será desenvolvido um sistema de prevenção a invasão e roubo, caso algum movi
 |   LED Verde + Resistor             | ![display]( https://http2.mlstatic.com/D_NQ_NP_880713-MLB42892435467_072020-O.webp) |
 
 ## Referências
-
+FILIPEFLOP. Loja virtual: componentes eletrônicos. Florianópolis-SC, [S.d]. Disponível em: https://www.filipeflop.com/. Acesso em: 10 nov. 2021.

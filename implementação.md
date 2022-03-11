@@ -38,23 +38,11 @@ Com a maquete pronta, foi iniciado os testes testes individuais com os component
 Sendo assim, houve a possibilidade de foi interagir eles entre si, criando novos códigos e adicionando tarefas na IDE do arduíno escrito em funções de C para que a partir de alguns comandos enviados pela comunicação serial ou então pela leitura dos sensores, obtivesse respostas, como por exemplo um LED acendendendo por meio do sensor de movimento presença PIR , uma mensagem no display LCD de acordo com a medida do módulo sensor de umidade/nível da água, um servo abrindo um portão, buzzer emitindo alarme sonoro, entre outros.
 
 ## Código
+Após a implementação de todas as interações e tarefas, é o momento e colocar todas juntas em um único código para ter o sistema inteiro funcionando. 
 
-O código foi executado em formato de tarefas,na qual cada uma segue a função baseada na concepção, sendo: 
-  
-  * tarefa_buzzer();
-  * tarefa_gas();
-  * tarefa_luz();
-  * tarefa_invasao();
-  * tarefa_serial();
-  * tarefa_portao();
-  * tarefa_garagem();
-  
   #### Código Principal
 
 Para acessar o meu código [**Clique aqui**](./Código.md/casa_domotica.ino)
-
-
-
 
 ## Referências
 

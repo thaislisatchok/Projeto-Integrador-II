@@ -40,8 +40,23 @@ Sendo assim, houve a possibilidade de interagir eles entre si, criando novos có
 
 ### Sistema entrada na garagem
 
-- ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/Port%C3%A3o%20Garagem.mp4)
+- https://youtu.be/2kwqwK8_HXc
 
+### Sistema de iluminação na garagem
+
+- https://youtu.be/q7P7FKN8Yyg
+
+### Sistema de irrigação
+
+-https://youtu.be/vnrbeyFz5bA
+
+### Sistema para controle de vazamento de gás
+
+-https://youtu.be/Ek3WdNeS5Do
+
+### Sistema de alarme contra invasão
+
+-https://youtu.be/FXVj_71-PVs
 
 ## Código
 Após a implementação de todas as interações e tarefas, é o momento e colocar todas juntas em um único código para ter o sistema inteiro funcionando. 

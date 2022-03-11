@@ -48,15 +48,15 @@ Sendo assim, houve a possibilidade de interagir eles entre si, criando novos có
 
 ### Sistema de irrigação
 
--https://youtu.be/vnrbeyFz5bA
+- https://youtu.be/vnrbeyFz5bA
 
 ### Sistema para controle de vazamento de gás
 
--https://youtu.be/Ek3WdNeS5Do
+- https://youtu.be/Ek3WdNeS5Do
 
 ### Sistema de alarme contra invasão
 
--https://youtu.be/FXVj_71-PVs
+- https://youtu.be/FXVj_71-PVs
 
 ## Código
 Após a implementação de todas as interações e tarefas, é o momento e colocar todas juntas em um único código para ter o sistema inteiro funcionando. 

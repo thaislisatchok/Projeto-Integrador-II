@@ -3,7 +3,7 @@
 Projeto de domótica integrada com a Internet das Coisas
 
 Acesso rápido:
-  - [Concepção](./concepcao.md)
+  - [Concepção](./concepção.md)
   - [Design/Projeto](./design.md)
   - [Implementação](./implementação.md)
   - [Operação](./operacao.md)

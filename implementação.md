@@ -40,9 +40,8 @@ Sendo assim, houve a possibilidade de interagir eles entre si, criando novos có
 
 ### Sistema entrada na garagem
 
-- ![Diagrama](https://youtu.be/2kwqwK8_HXc)
-- 
-- [Sensor Presença LED](testes/buzzer/buzzer.md)
+- ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/Port%C3%A3o%20Garagem.mp4)
+
 
 ## Código
 Após a implementação de todas as interações e tarefas, é o momento e colocar todas juntas em um único código para ter o sistema inteiro funcionando. 

@@ -68,3 +68,5 @@ Para acessar o meu código [**Clique aqui**](./Código.md/casa_domotica.ino)
 ## Referências
 
 AUTODESK. AutoCAD (Versão gratuita): Sofware CAD com automação de projeto, além de conjuntos de ferramentas, aplicativos para dispositivos móveis e web. Disponível em: https://www.autodesk.com.br/products/autocad/overview?us_oa=dotcom-us&us_si=c73dcba2-ca0f-46ea-aa7b-0bc1f74d2323&us_st=AutoCAD&us_pt=ACD. Acesso em: 05 fev. 2022.
+
+LPAE. Dicas para projetos feitos no Arduino. Dec. 17 2021. Disponível em: https://github.com/LPAE/arduino_tutorial. Acesso em: 21 fev. 2022.

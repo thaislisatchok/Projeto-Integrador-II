@@ -51,7 +51,7 @@ O código foi executado em formato de tarefas,na qual cada uma segue a função 
   
   #### Código Principal
 
-Para acessar o meu código [**Clique aqui**](./Código/casa_domotica.ino)
+Para acessar o meu código [**Clique aqui**](./Codigo/casa_domotica.ino)
 
 
 

@@ -18,7 +18,7 @@ Evidencia-se que esse âmbito está ganhando força e lugar na sociedade gradati
 Dessa maneira, surgem residências e comércios que conseguem proporcionar o controle de informações precisas em tempo real por meio de smartphones ou tablets. Permitindo, assim, acionar conjuntos de técnicas direcionadas a melhoria da automação, integrando tecnologia em sistemas de segurança, gerenciamento de energia, bem-estar, comunicações, entre outras. 
 Percebe-se também os benefícios dessa junção multidisciplinar de muitas especialidades, como eletricidade, mecânica, psicologia, telecomunicações, informática e medicina, resultando na qualidade de vida para seus moradores e usuários. Ademais, gerando conforto, segurança, lazer, comunicação e racionalização de energia que são adquiridos por meio da utilização eficaz dos recursos com sustentabilidade.
 
-Em síntese, conclui-se que o custo gasto com automação na moradia, além de ser visto como uma ascensão, também é identificado como investimento, visto que resulta na otimização de tempo, melhora na qualidade de vida, fora que são adicionais de conforto e praticidade.
+Em síntese, conclui-se que o custo gasto com automação na moradia, além de ser visto como uma ascensão, também é identificado como investimento, visto que resulta na otimização de tempo, melhora na qualidade de vida e no fato de serem adicionais de conforto e praticidade.
 
          
 ![DOMÓTICA](https://vidacelular.com.br/wp-content/uploads/2021/02/home-4100193_1280.jpg)

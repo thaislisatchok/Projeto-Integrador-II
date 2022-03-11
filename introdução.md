@@ -6,7 +6,7 @@ Acesso rápido:
   - [Concepção](./concepção.md)
   - [Design/Projeto](./design.md)
   - [Implementação](./implementação.md)
-  - [Operação](./operacao.md)
+  - [Operação](./operação.md)
 
 
 ## Introdução

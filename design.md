@@ -40,5 +40,6 @@ X           | Módulo Matriz de LED 8×8 com MAX7219
 ## Referências
 
 AUTODESK. AutoCAD (Versão gratuita): Sofware CAD com automação de projeto, além de conjuntos de ferramentas, aplicativos para dispositivos móveis e web. Disponível em: https://www.autodesk.com.br/products/autocad/overview?us_oa=dotcom-us&us_si=c73dcba2-ca0f-46ea-aa7b-0bc1f74d2323&us_st=AutoCAD&us_pt=ACD. Acesso em: 08 dez. 2021
+
 FRITZING.ORG. Fritzing: electronics made easy. March 30 2021. Disponível em: https://fritzing.org/. Acesso em: 07 dez. 2021.
 

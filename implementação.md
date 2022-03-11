@@ -1,17 +1,22 @@
 # Implementação do Projeto
+
+Nesta etapa, será feita a montagem da casa e a inicialização da automatização residencial, recebendo todas as tecnologias baseando-se na estrutura apresentada e projetada na etapa do Design. A seguir, serão descritos os processos de fabricação da maquete, testes dos componentes, e código e validação de cada tarefa do sistema integrado.
+
 Acesso rápido:  
  - [Introdução](./introdução.md)
   - [Concepção](./concepção.md)
   - [Design/Projeto](./design.md)
   - [Operação](./operação.md)
 
+## Maquete
 
-## Ideia de maquete
+Na etapa do design foi feita a planta baixa da maquete a ser implementada no projeto, baseado nisso foi desenvolvido a ideia inicial e logo em seguida, o resultado.
 
+### Projeto/Ideia Inicial 
 
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete%20residencial.png)
 
-## Montagem 
+### Montagem-Resultado
  Material utilizado:
  
 - Base de Isopor ;
@@ -20,13 +25,36 @@ Acesso rápido:
  - Papel Cartolina verde ; 
 - Papel Paraná número 90 ; 
 - Cola de isopor.
-
  
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete1.jpg)
 
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete2.jpg)
 
 ![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete3.jpg)
+
+## Testes com os sensores
+
+Com a maquete pronta, foi iniciado os testes testes individuais com os componentes afim de ratificar que todos estão em perfeito funcionamento para integra-los posteriormente.
+Sendo assim, houve a possibilidade de foi interagir eles entre si, criando novos códigos e adicionando tarefas na IDE do arduíno escrito em funções de C para que a partir de alguns comandos enviados pela comunicação serial ou então pela leitura dos sensores, obtivesse respostas, como por exemplo um LED acendendendo por meio do sensor de movimento presença PIR , uma mensagem no display LCD de acordo com a medida do módulo sensor de umidade/nível da água, um servo abrindo um portão, buzzer emitindo alarme sonoro, entre outros.
+
+## Código
+
+O código foi executado em formato de tarefa,na qual cada uma segue a função baseada na concepção, sendo: 
+  
+  * tarefa_buzzer();
+  * tarefa_gas();
+  * tarefa_luz();
+  * tarefa_invasao();
+  * tarefa_serial();
+  * tarefa_portao();
+  * tarefa_garagem();
+  
+  #### Código Principal
+
+Para acessar o meu código [**Clique aqui**](./Código/Código)
+
+
+
 
 ## Referências
 

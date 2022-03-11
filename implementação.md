@@ -39,7 +39,7 @@ Sendo assim, houve a possibilidade de foi interagir eles entre si, criando novos
 
 ## Código
 
-O código foi executado em formato de tarefa,na qual cada uma segue a função baseada na concepção, sendo: 
+O código foi executado em formato de tarefas,na qual cada uma segue a função baseada na concepção, sendo: 
   
   * tarefa_buzzer();
   * tarefa_gas();
@@ -51,7 +51,7 @@ O código foi executado em formato de tarefa,na qual cada uma segue a função b
   
   #### Código Principal
 
-Para acessar o meu código [**Clique aqui**](./Código/Código)
+Para acessar o meu código [**Clique aqui**](./Código/casa_domotica.ino)
 
 
 

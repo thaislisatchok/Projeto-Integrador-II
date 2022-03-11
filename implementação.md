@@ -36,7 +36,7 @@ Na etapa do design foi feita a planta baixa da maquete a ser implementada no pro
 
 Com a maquete pronta, foi iniciado os testes testes individuais com os componentes afim de ratificar que todos estão em perfeito funcionamento para integra-los posteriormente.
 
-Sendo assim, houve a possibilidade de foi interagir eles entre si, criando novos códigos e adicionando tarefas na IDE do arduíno escrito em funções de C para que a partir de alguns comandos enviados pela comunicação serial ou então pela leitura dos sensores, obtivesse respostas, como por exemplo um LED acendendendo por meio do sensor de movimento presença PIR , uma mensagem no display LCD de acordo com a medida do módulo sensor de umidade/nível da água, um servo abrindo um portão, buzzer emitindo alarme sonoro, entre outros.
+Sendo assim, houve a possibilidade de interagir eles entre si, criando novos códigos e adicionando tarefas na IDE do arduíno escrito em funções de C para que a partir de alguns comandos enviados pela comunicação serial ou então pela leitura dos sensores, obtivesse respostas, como por exemplo um LED acendendendo por meio do sensor de movimento presença PIR , uma mensagem no display LCD de acordo com a medida do módulo sensor de umidade/nível da água, um servo abrindo um portão, buzzer emitindo alarme sonoro, entre outros.
 
 ## Código
 Após a implementação de todas as interações e tarefas, é o momento e colocar todas juntas em um único código para ter o sistema inteiro funcionando. 

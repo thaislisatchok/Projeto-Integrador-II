@@ -40,7 +40,7 @@ Sendo assim, houve a possibilidade de interagir eles entre si, criando novos có
 
 ### Sistema entrada na garagem
 
-- [Portão Garagem](figuras.md/Portão Garagem.mp4)
+- ![Diagrama](https://youtu.be/2kwqwK8_HXc)
 - 
 - [Sensor Presença LED](testes/buzzer/buzzer.md)
 

@@ -39,8 +39,5 @@ X           | Módulo Matriz de LED 8×8 com MAX7219
 
 ## Referências
 
-Colocar aqui as referências. _Sempre em formato ABNT_.
-
-ADMIN. **Casa inteligente: a tecnologia de Black Mirror já está o seu alcance!** Disponível em: <https://www.delmak.com.br/casa-inteligente-a-tecnologia-de-black-mirror-ja-esta-ao-seu-alcance/>. Acesso em: 23 mai. 2021.
-
+AUTODESK. AutoCAD (Versão gratuita): Sofware CAD com automação de projeto, além de conjuntos de ferramentas, aplicativos para dispositivos móveis e web. Disponível em: https://www.autodesk.com.br/products/autocad/overview?us_oa=dotcom-us&us_si=c73dcba2-ca0f-46ea-aa7b-0bc1f74d2323&us_st=AutoCAD&us_pt=ACD. Acesso em: 08 dez. 2021
 

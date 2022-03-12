@@ -27,7 +27,7 @@ X           | Módulo Matriz de LED 8×8 com MAX7219
 1           | Display LCD 16×2 I2C Backlight Azul
 1           | Mini Lâmpada Led (VERDE)
 1           | Resistor
-1           | Sensor ultrasônico HC-SR04
+1           | Sensor ultrassônico HC-SR04
 
 ## Diagrama Eletrônico
 

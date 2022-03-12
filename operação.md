@@ -1,5 +1,7 @@
 # Operação do Projeto
 
+Durante todas as etapas anteriores foi descrito todo o processo de construção do projeto, para que fosse possível chegar a essa última etapa da abordagem CDIO(Conceive, Design, Implement and Operate), na qual o sistema implementado é utilizado para seus devidos propósitos.Abaixo, é possivel encontrar o link do vídeo demonstrativo com tudo funcionando.
+
 Acesso rápido: 
   - [Introdução](./introdução.md)
   - [Concepção](./concepção.md)
@@ -7,10 +9,6 @@ Acesso rápido:
   - [Implementação](./implementação.md)
 
 
-## Referências
+## Link do vídeo
 
-Colocar aqui as referências. _Sempre em formato ABNT_.
-
-ADMIN. **Casa inteligente: a tecnologia de Black Mirror já está o seu alcance!** Disponível em: <https://www.delmak.com.br/casa-inteligente-a-tecnologia-de-black-mirror-ja-esta-ao-seu-alcance/>. Acesso em: 23 mai. 2021.
-
-
+- https://youtu.be/1cRKWJdL0Fk

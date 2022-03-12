@@ -1,12 +1,12 @@
 # Implementação do Projeto
 
-Nesta etapa, será feita a montagem da casa e a inicialização da automatização residencial, recebendo todas as tecnologias baseando-se na estrutura apresentada e projetada na etapa do Design. A seguir, serão descritos os processos de fabricação da maquete, testes dos componentes, e código e validação de cada tarefa do sistema integrado.
-
 Acesso rápido:  
  - [Introdução](./introdução.md)
   - [Concepção](./concepção.md)
   - [Design/Projeto](./design.md)
   - [Operação](./operação.md)
+
+Nesta etapa, será feita a montagem da casa e a inicialização da automatização residencial, recebendo todas as tecnologias baseando-se na estrutura apresentada e projetada na etapa do Design. A seguir, serão descritos os processos de fabricação da maquete, testes dos componentes, e código e validação de cada tarefa do sistema integrado.
 
 ## Maquete
 

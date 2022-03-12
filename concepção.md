@@ -37,7 +37,7 @@ Será desenvolvido um sistema de prevenção a invasão e roubo, caso algum movi
 |   Micro Servo SG92R 9g TowerPro           |![SERVO](https://cdn.awsli.com.br/600x450/535/535286/produto/121183340/f853b364ba.jpg) |
 |Módulo Sensor de Umidade/Nível Água Chuva | ![NIVELAGUA](https://cdn.awsli.com.br/600x700/468/468162/produto/25255981/eb4cd1de03.jpg) |
 |   Módulo Relé 5 V e um Canal                            |![rele](https://www.filipeflop.com/wp-content/uploads/2017/07/SKU099653h.jpg) |
-|   Sensor ultrasônico HC-SR04                             | ![ultrassonico](https://cdn.awsli.com.br/600x700/78/78150/produto/2888532/62bc744cec.jpg) |
+|   Sensor ultrassônico HC-SR04                             | ![ultrassonico](https://cdn.awsli.com.br/600x700/78/78150/produto/2888532/62bc744cec.jpg) |
 |   Módulo Matriz de LED 8×8 com MAX7219    | ![matrizled](https://www.usinainfo.com.br/1017274-thickbox_default/modulo-matriz-de-led-8x8-vermelho-max7219-jumpers.jpg) |
 |   Buzzer passivo                                                     | ![buzzer](https://www.filipeflop.com/wp-content/uploads/2017/07/2-142.jpg) |
 |   Display LCD 16×2 I2C Backlight Azul             | ![display](https://cdn.awsli.com.br/600x700/468/468162/produto/19414150/display-lcd-16x2-i2c-backlight-azul-7ff37942.jpg) |

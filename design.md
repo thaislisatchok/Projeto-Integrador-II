@@ -31,16 +31,16 @@ X           | Módulo Matriz de LED 8×8 com MAX7219
 
 ## Diagrama Eletrônico
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/Fritzing%20PI2.png)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figura.md/Fritzing%20PI2.png)
 
 ## Planta baixa 
 
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/figura%20da%20planta%20da%20casa.png)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figura.md/figura%20da%20planta%20da%20casa.png)
 
 ### Local dos componentes 
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/figura%20da%20planta%20da%20casa%20%2B%20componentes.jpg)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figura.md/figura%20da%20planta%20da%20casa%20%2B%20componentes.jpg)
 
 ## Referências
 

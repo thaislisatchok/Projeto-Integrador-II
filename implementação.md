@@ -14,7 +14,7 @@ Na etapa do design foi feita a planta baixa da maquete a ser implementada no pro
 
 ### Projeto/Ideia Inicial 
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete%20residencial.png)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figura.md/maquete%20residencial.png)
 
 ### Montagem-Resultado
  Material utilizado:
@@ -26,11 +26,11 @@ Na etapa do design foi feita a planta baixa da maquete a ser implementada no pro
 - Papel Paraná número 90 ; 
 - Cola de isopor.
  
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete1.jpg)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figura.md/maquete1.jpg)
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete2.jpg)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figura.md/maquete2.jpg)
 
-![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figuras.md/maquete3.jpg)
+![Diagrama](https://github.com/thaislisatchok/Projeto-Integrador-II/blob/main/figura.md/maquete3.jpg)
 
 ## Testes com os sensores
 
